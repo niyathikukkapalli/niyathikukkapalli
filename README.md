@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Niyathi Kukkapalli</h1>
-<h3 align="center">I'm a passionate mathematician studying at Princeton University</h3>
+<h3 align="center">I'm an aspiring mathematician and computer scientist studying at Princeton University</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niyathikukkapalli" alt="niyathikukkapalli" /></a> </p>
 
-- 🔭 I’m currently working on **designing Algebraic Arcanum and COS126**
+- 🔭 I’m currently working on **Machine Learning, Abstract Algebra, Discrete Mathematics**
 
-- 🌱 I’m currently learning **Java, C++, Complex Analysis, Topology**
+- 🌱 I’m currently learning **C++, Web Development (React, Tailwind), Quant Finance**
 
 - 👨‍💻 All of my projects are available at [https://niyathikukkapalli.com/research/](https://niyathikukkapalli.com/research/)
 
 - 📝 I regularly write articles on [https://niyathikukkapalli.com](https://niyathikukkapalli.com)
 
-- 💬 Ask me about **Wesbite Design, Game Development, Competitive & College Math, etc**
+- 💬 Ask me about **Algorithms Research, Scientific Writing, or anything College!**
 
 - 📫 How to reach me **nk6074@princeton.edu**
 
-- ⚡ Fun fact **I'm also an artist**
+- ⚡ Fun fact **I'm also an artist!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
