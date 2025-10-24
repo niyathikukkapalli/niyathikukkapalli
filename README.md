@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niyathi Kukkapalli</h1>
-<h3 align="center">I'm an aspiring mathematician and computer scientist studying at Princeton University</h3>
+<h3 align="center">I'm a student at Princeton University and an aspiring computer scientist and mathematician</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niyathikukkapalli" alt="niyathikukkapalli" /></a> </p>
 
