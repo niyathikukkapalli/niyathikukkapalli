@@ -2,20 +2,20 @@
 <h3 align="center">Princeton University • Computer Science & Mathematics</h3>
 
 <p align="center">
-Aspiring computer scientist and mathematician exploring algorithms, machine learning, and quantitative finance.
+Aspiring computer scientist and mathematician exploring machine learning, artificial intelligence, and quantitative finance.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Machine Learning, Abstract Algebra, Discrete Mathematics**
-- 🌱 Learning **C++, React, Tailwind, Quant Finance**
+- 🔭 Currently working on **Computer Vision Research at Princeton Vision and Learning Lab**
+- 🌱 Learning **Natural Language Processing**
 - 👨‍💻 Projects: <a href="https://niyathikukkapalli.com/research/">Research Portfolio</a>  
 - 📝 Writing: <a href="https://niyathikukkapalli.com">Personal Website</a>  
-- 💬 Ask me about **Algorithms, Scientific Writing, or College Life**
+- 💬 Ask me about **Anything Mathematical or Theoretical!**
 - 📫 Reach me at **nk6074@princeton.edu**
-- ⚡ Fun fact: **I'm also an artist!**
+- ⚡ Fun fact: **I'm also an visual artist! Check out my artwork on my website.**
 
 ---
 
