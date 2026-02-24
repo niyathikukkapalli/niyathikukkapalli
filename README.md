@@ -39,7 +39,8 @@ Aspiring computer scientist and mathematician exploring machine learning, artifi
 
 ### 🛠️ Languages & Tools
 
-<p align="center">
+
+<p>
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=javascript" />
