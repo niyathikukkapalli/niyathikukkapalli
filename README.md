@@ -11,6 +11,7 @@ Aspiring computer scientist and mathematician exploring machine learning, artifi
 
 - 🔭 Currently working on **Computer Vision Research at Princeton Vision and Learning Lab**
 - 🌱 Learning **Natural Language Processing**
+- 🧠 Interests: I'm interested in ML/AI Research, CV projects, math, and frontend dev!
 - 📝 Writing: <a href="https://niyathikukkapalli.com">Personal Website</a>  
 - 💬 Ask me about **Anything Mathematical or Theoretical!**
 - 📫 Reach me at **nk6074@princeton.edu**
