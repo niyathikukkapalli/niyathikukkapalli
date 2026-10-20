@@ -24,7 +24,7 @@
 | Project | What it is | Stack |
 |:---|:---|:---|
 | ♟️ [**Nimzo**](https://thenimzo.com) | AI chess coach with Stockfish-verified, hallucination-free analysis | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| 🚗 [**TigerLyft**] | Student ride-sharing with Uber price comparison and booking | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Uber](https://img.shields.io/badge/Uber_API-000000?style=flat-square&logo=uber&logoColor=white) |
+| 🚗 [**TigerLyft**](https://lift.tigerapps.org/) | Student ride-sharing with Uber price comparison and booking | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Uber](https://img.shields.io/badge/Uber_API-000000?style=flat-square&logo=uber&logoColor=white) |
 | 🌲 [**Greedy Range Trees**](https://arxiv.org/pdf/2603.22500v1) | Open-source spatial data structures | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🧠 [**MEMIT Robustness**](https://niyathikukkapalli.com/research/cos484.pdf) | Benchmarking and red-teaming LLM model editing | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
 
