@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niyathi Kukkapalli</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=CS+%40+Princeton+'28;Technology+Lead+%40+TigerApps;ML+Engineer+%26+Researcher;Building+AI+that's+useful+and+trustworthy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=CS+%2B+Math+%40+Princeton;ML+Engineer+%26+Researcher" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Princeton University • Computer Science, Minor in Mathematics</h3>
@@ -9,15 +9,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/niyathikukkapalli" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" width="38"/>
-  </a>
-  <a href="https://kaggle.com/niyathikukkapalli" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="28" width="38"/>
-  </a>
-  <a href="https://instagram.com/niyathik_12" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28" width="38"/>
-  </a>
-  <a href="https://discord.gg/niyathik" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="28" width="38"/>
   </a>
 </p>
 
